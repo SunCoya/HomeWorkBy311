@@ -43,6 +43,6 @@ public class SetmealVO implements Serializable {
     //分类名称
     private String categoryName;
 
-    //套餐和菜品的关联关系
+    //套餐和书籍的关联关系
     private List<SetmealDish> setmealDishes = new ArrayList<>();
 }

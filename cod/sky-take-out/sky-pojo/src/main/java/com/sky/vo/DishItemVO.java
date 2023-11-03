@@ -19,9 +19,9 @@ public class DishItemVO implements Serializable {
     //份数
     private Integer copies;
 
-    //菜品图片
+    //书籍图片
     private String image;
 
-    //菜品描述
+    //书籍描述
     private String description;
 }
